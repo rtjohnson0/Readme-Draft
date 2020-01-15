@@ -1,4 +1,4 @@
-# CodeAcademy 7
+# codeacademy-7
 
 *The Road to Hire Coding Academy is a six month program that provides young adults with technical training specifically knowledge on full-stack software engineering, and professional development training that will be beneficial in their future job placements with Road to Hire’s partner companies.*
 
