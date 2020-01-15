@@ -33,18 +33,3 @@
 
 
 
-## 02-Computer Basics & Github
-
-
-## 03-Advanced CSS
-
-
-## 04-Intro to JavaScript
-##  05-JavaScript Week 2
-##  06-JavaScript Week 3
-##  07-Algorithms
-##  08-Node.JS
-##  09-TDD
-##  10-Node.JS Week 2
-##  11-Intro NPM
-
