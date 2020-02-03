@@ -5,6 +5,7 @@
 ---
 #	<p align="center"> Lesson Plan </p>
 
+<p align="center">
 |Week  | Topic |
 |--|--|
 |1  | HTML/CSS |
@@ -28,6 +29,7 @@
 |19 | MongoDB |
 |20	| Go |
 |21 | Go |
+  </p>
 
 
 ---
