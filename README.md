@@ -7,17 +7,17 @@
 |Week  | Topic |
 |--|--|
 |1  | HTML/CSS |
-|2	|Computer Basics & Github|
-|3  | Advanced CSS |
-|4	|Intro to JavaScript|
-|5  | JavaScript Week 2 |
-|6	|JavaScript Week 3|
-|7  |Algorithms|
-|8	|Node.JS|
-|9  |TDD|
-|10	|Node.JS Week 2|
-|11  |Intro to NPM|
-|12	|MySQL|
+|2	| Computer Basics |
+|3  | VC Sys/ Github/ Terminal Basics/ Intro VS Code |
+|4	| Design Week (Wireframing, UX Basics, Design) |
+|5  | Advanced CSS  |
+|6	| Intro to Javascript |
+|7  | JavaScript Part 2 |
+|8	| JavaScript Part 3 & Netlify |
+|9  | Node |
+|10	| Node.JS Week 2|
+|11 | React |
+|12	| React Week 2 |
 
 
 
