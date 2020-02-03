@@ -18,6 +18,16 @@
 |10	| Node.JS Week 2|
 |11 | React |
 |12	| React Week 2 |
+|13 | Unit Testing/ Algorithms |
+|14	| AWS |
+|15 | AWS |
+|16	| AWS |
+|17 | MySQL  |
+|18	| MySQL/MongoDB  |
+|19 | MongoDB |
+|20	| Go |
+|21 | Go |
+
 
 
 
